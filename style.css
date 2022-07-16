@@ -239,7 +239,7 @@ p {
   aside img {
 	max-height: 200px;
 	width: auto;
-	margin-top: 10%;
+	margin-top: 70% !important;
   }
   aside {
 	height: fit-content;
